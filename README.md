@@ -20,7 +20,7 @@
 + **Firebase**
 
 ### Assembling:
-+ Assemble the hardwares like the schematic provided in the  <a href=https://github.com/GHxKw/IAQ-Monitoring/blob/main/Thesis%20Report.pdff>**thesis**<a/></h4>
++ Assemble the hardwares like the schematic provided in the  <a href=https://github.com/GHxKw/IAQ-Monitoring/blob/main/Thesis_Report.pdf>**thesis**<a/></h4>
 + Open the project from the **STM32** folder into the STM32F429I-DISC1 using CubeMX IDE
 + Load code trom the **NodeMCU** folder into the ESP8266 NodeMCU using Arduino IDE
 + Install and setup the **Thingsboard** on to the **Raspberry Pi**
