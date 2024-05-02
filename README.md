@@ -1,5 +1,5 @@
-# Guide to install and run the IAQI:
-*Bellow will the guide on how to install, setup and run the IAQI:*
+# Guide to install and run the IAQ Monitoring system:
+*Bellow will the guide on how to install, setup and run the IAQ system:*
 ## Setup:
 ###  Apps need to install:
 
